@@ -38,10 +38,3 @@ The project requires the following Python libraries:
         - **Commercial Gaming Revenue by State**: Displays the revenue for each state in millions of dollars.
         - **Annual Change Percentage by State**: Shows the annual percentage change in revenue for each state.
 
-## Contact
-
-For any questions or issues, please contact [Your Name] at [Your Email].
-
----
-
-This README provides an overview of the project, instructions for setup and usage, and context for the analysis. Adjust the contact information as necessary.
